@@ -1,0 +1,29 @@
+
+.text {
+    background-color: aqua;
+     border: solid red; 
+     border-radius: 30px 30px 30px 30px;
+      text-align: center;
+
+}
+.m {
+    border: solid black;
+}
+.n {
+    border: solid red;
+    background-color: red;
+}
+.green {
+    border: solid green;
+    background-color: green;
+}
+.blue {
+    border: solid blue;
+    background-color: blue;
+}
+.diyor {
+    background-color: green;
+    color: aliceblue;
+    width: 300px;
+    font-weight: 100px;
+}
